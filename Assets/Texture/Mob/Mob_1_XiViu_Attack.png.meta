@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -134,7 +134,322 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 930
+        width: 354
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37804ac161bbd349bfdff2de1bf0130
+      internalID: -183556828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 954
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdd15b3884501744b7b977fabdf3f6e
+      internalID: 1797469201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 926
+        width: 309
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f2b8bf3af1a4a46a196ab41f451009
+      internalID: -789136578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 902
+        width: 259
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fcd2a259f9f0c458a3c37e81a43b42
+      internalID: 832467100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 642
+        width: 200
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2693e5b3c37deda44bb190a6d9a0c1ce
+      internalID: -1273409553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 839
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bc4cf9e897bff41acb12817cb57425
+      internalID: 1681192855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 684
+        width: 234
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a92b33f33ef6f43a7ef1dd7a6696e0
+      internalID: -439484821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 730
+        width: 299
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c3c31ae8ace7a4789845ff9a1f9ff0
+      internalID: 1434520211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 680
+        width: 173
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c7c209da5b8934b9123c399e5d7a03
+      internalID: -2087320917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 514
+        width: 308
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585c1f42c9ee54c40aa50ac9bb50979a
+      internalID: 140127870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 140
+        width: 257
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33cab4be8464e748a59e996ec6a7a2e
+      internalID: 74229811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 263
+        width: 238
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657bba6467e4ca44c99fcf170c47a10e
+      internalID: 241830468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 243
+        width: 216
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e7c0c4f9bb7424d9c2af9147768b58
+      internalID: 1135607395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 16
+        width: 199
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a94de6514582df4da16de524cb16e96
+      internalID: -1290089938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 43
+        width: 239
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b0b292d3e26ec4ab5ee010990871df
+      internalID: -1687485778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +460,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mob_1_XiViu_Attack_0: -183556828
+      Mob_1_XiViu_Attack_1: 1797469201
+      Mob_1_XiViu_Attack_10: 74229811
+      Mob_1_XiViu_Attack_11: 241830468
+      Mob_1_XiViu_Attack_12: 1135607395
+      Mob_1_XiViu_Attack_13: -1290089938
+      Mob_1_XiViu_Attack_14: -1687485778
+      Mob_1_XiViu_Attack_2: -789136578
+      Mob_1_XiViu_Attack_3: 832467100
+      Mob_1_XiViu_Attack_4: -1273409553
+      Mob_1_XiViu_Attack_5: 1681192855
+      Mob_1_XiViu_Attack_6: -439484821
+      Mob_1_XiViu_Attack_7: 1434520211
+      Mob_1_XiViu_Attack_8: -2087320917
+      Mob_1_XiViu_Attack_9: 140127870
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

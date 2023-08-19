@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6babd96a1c6536644adbd32d3fca0dc9
+guid: bc95459ed62e8ab478c7b300cee7a683
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -134,7 +134,511 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: CharatersAttack_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 773
+        width: 125
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794574c007ad5f5499c6f42b265ebfe1
+      internalID: -317084244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 836
+        width: 141
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373e0dafaca594748955002e9e48d536
+      internalID: -145999100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_2
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 856
+        width: 157
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528dff638fcf031479567650d7c732d7
+      internalID: 1889181911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 858
+        width: 129
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cd01c01caca2e40a9c0f866f475cad
+      internalID: -1734681618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 875
+        width: 119
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444d37c0c40745642b7d30bad81a793f
+      internalID: -2147238417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_5
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 882
+        width: 105
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32699ae3139e294ba8ac1ea6bc181ae
+      internalID: 701707171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 520
+        width: 117
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f607aeb2d3fc48b199ee46f08f4ca
+      internalID: 1095803177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 582
+        width: 119
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a87a5fbde741646a8d487c18b91d47
+      internalID: 2081273006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 663
+        width: 117
+        height: 171
+      alignment: 9
+      pivot: {x: 0.41519243, y: 0.40328997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f30a62faa3d124bb973078b48504a2
+      internalID: 1079885363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 683
+        width: 155
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a3cb1ca2384dd47a95d6305808784d
+      internalID: -465734179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 690
+        width: 150
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83efd94586a53e74bba8e7b42a33ec30
+      internalID: -924144659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_11
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 696
+        width: 115
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dc044929c92a34dbb012b6cdc058b3
+      internalID: -1192467958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_12
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 528
+        width: 140
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc763eebbfed731438aba1c52f6c1079
+      internalID: -655163609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 270
+        width: 110
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8768e23c14521154cabe4737fb42e962
+      internalID: -1560216918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 316
+        width: 128
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3260fbb48d6864081f10e0e87de606
+      internalID: 1934244076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 352
+        width: 148
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d418684c88dfc45b2cf31ef02a22c2
+      internalID: -589713154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 354
+        width: 157
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6c093152f85fb4a8a87331c8dc51d9
+      internalID: 1771427470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_17
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 356
+        width: 146
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61ceb8c1fc4ad44da3a041b3e54f472
+      internalID: -695951816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 52
+        width: 136
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53c9807ba608864dac7881860758662
+      internalID: 329155154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 184
+        width: 131
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a700ebd0aaaa6042bb30a5fdbd64502
+      internalID: -1604413112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 190
+        width: 157
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba984d15ae92a33449f50cdd85524afd
+      internalID: 1519329993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 6
+        width: 134
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c0375bf9b28a848834ead8a1b75e93
+      internalID: -1775449350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_22
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 18
+        width: 122
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e1935036c001e488a27dbc0e6873a5
+      internalID: -570082818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharatersAttack_23
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 18
+        width: 120
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7f4fda91a37af4688d9d8ea3a9cbb0
+      internalID: 1997736833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +649,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CharatersAttack_0: -317084244
+      CharatersAttack_1: -145999100
+      CharatersAttack_10: -924144659
+      CharatersAttack_11: -1192467958
+      CharatersAttack_12: -655163609
+      CharatersAttack_13: -1560216918
+      CharatersAttack_14: 1934244076
+      CharatersAttack_15: -589713154
+      CharatersAttack_16: 1771427470
+      CharatersAttack_17: -695951816
+      CharatersAttack_18: 329155154
+      CharatersAttack_19: -1604413112
+      CharatersAttack_2: 1889181911
+      CharatersAttack_20: 1519329993
+      CharatersAttack_21: -1775449350
+      CharatersAttack_22: -570082818
+      CharatersAttack_23: 1997736833
+      CharatersAttack_3: -1734681618
+      CharatersAttack_4: -2147238417
+      CharatersAttack_5: 701707171
+      CharatersAttack_6: 1095803177
+      CharatersAttack_7: 2081273006
+      CharatersAttack_8: 1079885363
+      CharatersAttack_9: -465734179
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

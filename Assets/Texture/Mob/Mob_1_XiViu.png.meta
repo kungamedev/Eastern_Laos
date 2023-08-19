@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -134,7 +134,301 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mob_1_XiViu_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 582
+        width: 281
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bd786b363274a4a80405fa7a7c22e6
+      internalID: -405000812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 582
+        width: 280
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bf4acac4c5141448f1b64052387b9b
+      internalID: -2069069772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_2
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 582
+        width: 276
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe0a9763952b47448d02c9280c2f4cc
+      internalID: 1796644485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 585
+        width: 277
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b8da0ddff4e434c86e19fb7798d0ee
+      internalID: -279087255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_4
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 586
+        width: 273
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d7e958c86710542b2742560715d594
+      internalID: 122744645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 327
+        width: 268
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a87724b14412a429bce0636f95f041
+      internalID: 687362821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 331
+        width: 271
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9ed32ea3cfa3344a037ebde37f0d98
+      internalID: 1566391403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_7
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 332
+        width: 268
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dd0d590dac83a429abc32ea2b272fa
+      internalID: 504212577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_8
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 335
+        width: 272
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286bbf70402d991438493abefa1fd4f4
+      internalID: -1594979858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_9
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 330
+        width: 271
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9da3ade6dddb54b80ec2a2e855dfbc
+      internalID: 854069691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 75
+        width: 264
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b81f6ca15d5724a8dcab2f2381206d
+      internalID: 429111931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 80
+        width: 268
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece01e875a22a59489475a0dd2cff28f
+      internalID: 1637736782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_12
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 80
+        width: 265
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512b52c025971d342b4ab82488fb482e
+      internalID: 430483673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mob_1_XiViu_13
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 85
+        width: 270
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c696217626acc44586f01dec6003cec
+      internalID: 1300422596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +439,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mob_1_XiViu_0: -405000812
+      Mob_1_XiViu_1: -2069069772
+      Mob_1_XiViu_10: 429111931
+      Mob_1_XiViu_11: 1637736782
+      Mob_1_XiViu_12: 430483673
+      Mob_1_XiViu_13: 1300422596
+      Mob_1_XiViu_2: 1796644485
+      Mob_1_XiViu_3: -279087255
+      Mob_1_XiViu_4: 122744645
+      Mob_1_XiViu_5: 687362821
+      Mob_1_XiViu_6: 1566391403
+      Mob_1_XiViu_7: 504212577
+      Mob_1_XiViu_8: -1594979858
+      Mob_1_XiViu_9: 854069691
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
